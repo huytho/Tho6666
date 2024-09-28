@@ -1,0 +1,305 @@
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\System.Management.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.Up2Date
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Properties.Resources.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangNhap.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Dashboard.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Addroom.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\System.ClientModel.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustumerRes.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Checkout.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustomerDetails.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Employee.resources
+E:\du an\Asp.net\Duan\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Addroom.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Checkout.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustomerDetails.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustumerRes.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Employee.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangNhap.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Dashboard.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\System.ClientModel.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+C:\Users\ADMIN\Downloads\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Invoices.resources
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\System.ClientModel.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\System.Management.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Addroom.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Checkout.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustomerDetails.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustumerRes.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Employee.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Invoices.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangNhap.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Dashboard.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Properties.Resources.resources
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.Up2Date
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+D:\DuAn\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.exe
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.deps.json
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.runtimeconfig.json
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\DuAn.pdb
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\System.ClientModel.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\System.Management.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\du an\Asp.net\DuAn\DuAn\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.AssemblyReference.cache
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Addroom.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Checkout.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustomerDetails.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_CustumerRes.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Employee.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.All_User_Control.Uc_Invoices.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangKy.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.DangNhap.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Dashboard.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.Properties.Resources.resources
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.GenerateResource.cache
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.GeneratedMSBuildEditorConfig.editorconfig
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfoInputs.cache
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.AssemblyInfo.cs
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.CoreCompileInputs.cache
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.csproj.Up2Date
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.dll
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\refint\DuAn.dll
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.pdb
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\DuAn.genruntimeconfig.cache
+E:\du an\Asp.net\DuAn\DuAn\obj\Debug\net6.0-windows\ref\DuAn.dll
+E:\du an\Asp.net\Duan\DuAn\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\du an\Asp.net\Duan\DuAn\bin\Debug\net6.0-windows\itextsharp.dll
